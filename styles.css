@@ -1,0 +1,23 @@
+﻿.class1 {
+    color: green;
+}
+
+div:nth-child(3){
+    color: red;
+}
+
+div:nth-child(2)::first-letter{
+    color: blue;
+}
+
+a+div {
+    background-color: yellow;
+}
+
+a:visited {
+    color: black;
+}
+
+.class1 .paragraf { 
+    margin-left: 30px;
+}
